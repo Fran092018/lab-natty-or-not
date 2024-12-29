@@ -1,51 +1,25 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# VÍDEO: DOLAR, ENTENDA O IMPACTO NO SEU BOLSO ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um vídeo curto de 38 segundos falando sobre os impactos da alta do Dolar no dia a dia dos brasileiros
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa HeyGen para sintetização da voz e geração do avatar virtual 
+Plataforma Canva para geração da miniatura e edição do Vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Google trends para pesquisar um assunto em alta no momento. Pedi o ChatGPT para gerar um roteiro para o meu vìdeo sobre o assunto escolhido, que foi a alta do Dolar. Utilizei o HeyGen para sintetizar uma voz e um avatar mais adequado ao assunto apresentado. Por ultimo utilizei o Canva para criar a miniatura de destaque do video usando o mesmo avatar do HeyGen pra ficar mais coeso. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Vídeo mostra como a alta do dolar impacta diretamente na inflação e desta forma nas nossas escolhas diárias.
+
+LINK PARA O VIDEO:
+<https://github.com/Fran092018/lab-natty-or-not/commit/9aaa47b47b6aa85bdcac21e1decd0c6d7beee33d> 
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Acredito que apesar de ser um desafio criar um vídeo "natty" com IA, foi uma experiencia incrível para mim, abriu muito a minha visão e possibilidades! Foi muito interessante desenvolver este projeto.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
