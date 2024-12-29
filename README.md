@@ -21,5 +21,5 @@ LINK PARA O VIDEO:
 
 
 ## 💭 Reflexão (Opcional)
-Acredito que apesar de ser um desafio criar um vídeo "natty" com IA, foi uma experiencia incrível para mim, abriu muito a minha visão e possibilidades! Foi muito interessante desenvolver este projeto.
+Acredito que apesar de ser um desafio criar um vídeo "natty" com IA, foi uma experiencia incrível para mim, abriu muito a minha visão e possibilidades! Foi muito interessante desenvolver este projeto para mim.
 
